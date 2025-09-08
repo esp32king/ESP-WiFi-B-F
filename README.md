@@ -31,4 +31,11 @@ WiFi Pass = secret61
 
 Open This Url 👉 http://192.168.4.1   in Your Browser 
 
-This url is esp webserver you this url open without internet so you can open it
+This url is esp webserver and this url open without internet so you can open it
+
+
+### created by Krishna Rajput UP61
+
+
+
+
