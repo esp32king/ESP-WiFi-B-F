@@ -34,6 +34,12 @@ Open This Url 👉 http://192.168.4.1   in Your Browser
 This url is esp webserver and this url open without internet so you can open it
 
 
+1.  scan wifi
+2.  tap ssid to select
+3.  upload passwd txt file
+4.  tap to upload button
+5.  start attck
+
 ### created by Krishna Rajput UP61
 
 
