@@ -24,7 +24,7 @@ Flash Here 👉 <a href="https://esptool.spacehuhn.com/">esptool.spacehuhn.com</
 
 Connect to WiFi 
 
-WiFi ssid = Shadow
+<br>WiFi ssid = Shadow </br>
 WiFi Pass = secret61
 
 ### After connected to wifi 
