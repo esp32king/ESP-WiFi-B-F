@@ -36,7 +36,8 @@ This url is esp webserver and this url open without internet so you can open it
 
 ### created by Krishna Rajput UP61
 
-⚠ Warning this is only for education purpose don't harm anyone otherwise you responsible
+
+⚠ Warning this is only for education purpose don't harm anyone device otherwise you responsible
 
 ⚡ use on your own device
 
