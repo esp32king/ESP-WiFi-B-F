@@ -18,3 +18,17 @@ Flash Here 👉 <a href="https://esptool.spacehuhn.com/">esptool.spacehuhn.com</
 # 2️⃣ Flash For ESP8266
 
 <a href="https://github.com/esp32king/ESP-WiFi-B-F/raw/refs/heads/main/ESP8266/Esp8266-BF.bin">ESp8266-WiFI-BF.bin</a>
+
+
+### After Flash
+
+Connect to WiFi 
+
+WiFi ssid = Shadow
+WiFi Pass = secret61
+
+### After connected to wifi 
+
+Open This Url 👉 http://192.168.4.1   in Your Browser 
+
+This url is esp webserver you this url open without internet so you can open it
