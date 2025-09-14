@@ -11,7 +11,7 @@ Flash Here 👉 <a href="https://esptool.spacehuhn.com/">esptool.spacehuhn.com</
  Check <a href="https://github.com/esp32king/ESP-WiFi-B-F/releases">Releases</a>
  ---
 
- 
+
 <a href="https://github.com/esp32king/ESP-WiFi-B-F/releases/download/ESP32-WiFi-BF/bootloader.bin">bootloader.bin</a> → 0x1000
 
 <a href="https://github.com/esp32king/ESP-WiFi-B-F/releases/download/ESP32-WiFi-BF/partitions.bin">partitions.bin</a> → 0x8000
