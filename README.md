@@ -5,7 +5,7 @@
 
 
 Esp WiFi KIng
-Flash Here 👉 <a href="https://esptool.spacehuhn.com/">esptool.spacehuhn.com</a>
+Flash Here 👉 <a href="https://esp32king.github.io/">Esp32king.github.io/</a>
 ---
 # 1️⃣ Flash to ESP32
 ---
